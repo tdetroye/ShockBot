@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="IRCBot">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/IRCBot_jar/IRCBot.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
